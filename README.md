@@ -34,9 +34,9 @@ Execute the C Program for the desired output.
 
 ## OUTPUT
 
+![Screenshot from 2024-05-05 16-15-29](https://github.com/mithra916/Linux-File-IO-Systems-locking/assets/149986612/e78114aa-0dc4-4f2c-a33f-d8dda9e7edfe)
 
-
-
+![Screenshot from 2024-05-05 16-15-29](https://github.com/mithra916/Linux-File-IO-Systems-locking/assets/149986612/1f09e1b7-f4b0-459e-adcc-9c8c41329407)
 
 # RESULT:
 The programs are executed successfully.
