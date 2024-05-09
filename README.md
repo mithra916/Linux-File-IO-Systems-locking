@@ -1,5 +1,7 @@
 # Linux-File-IO-Systems-locking
 Ex07-Linux File-IO Systems-locking
+# Developed by:LOGA MITHRA.R
+# Register number:212223100027
 # AIM:
 To Write a C program that illustrates files copying and locking
 # DESIGN STEPS:
